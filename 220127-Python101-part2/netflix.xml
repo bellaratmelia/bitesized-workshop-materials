@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <movie>
+    <index>0</index>
+    <Title>David Attenborough: A Life on Our Planet</Title>
+    <Genre>Documentary</Genre>
+    <Premiere>4-Oct-20</Premiere>
+    <Runtime>83</Runtime>
+    <IMDB-Score>9.0</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>1</index>
+    <Title>Emicida: AmarElo - It's All For Yesterday</Title>
+    <Genre>Documentary</Genre>
+    <Premiere>8-Dec-20</Premiere>
+    <Runtime>89</Runtime>
+    <IMDB-Score>8.6</IMDB-Score>
+    <Language>Portuguese</Language>
+  </movie>
+  <movie>
+    <index>2</index>
+    <Title>Springsteen on Broadway</Title>
+    <Genre>One-man show</Genre>
+    <Premiere>16-Dec-18</Premiere>
+    <Runtime>153</Runtime>
+    <IMDB-Score>8.5</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>3</index>
+    <Title>Ben Platt: Live from Radio City Music Hall</Title>
+    <Genre>Concert Film</Genre>
+    <Premiere>20-May-20</Premiere>
+    <Runtime>85</Runtime>
+    <IMDB-Score>8.4</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>4</index>
+    <Title>Taylor Swift: Reputation Stadium Tour</Title>
+    <Genre>Concert Film</Genre>
+    <Premiere>31-Dec-18</Premiere>
+    <Runtime>125</Runtime>
+    <IMDB-Score>8.4</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>5</index>
+    <Title>Winter on Fire: Ukraine's Fight for Freedom</Title>
+    <Genre>Documentary</Genre>
+    <Premiere>9-Oct-15</Premiere>
+    <Runtime>91</Runtime>
+    <IMDB-Score>8.4</IMDB-Score>
+    <Language>English/Ukranian/Russian</Language>
+  </movie>
+  <movie>
+    <index>6</index>
+    <Title>Cuba and the Cameraman </Title>
+    <Genre>Documentary</Genre>
+    <Premiere>24-Nov-17</Premiere>
+    <Runtime>114</Runtime>
+    <IMDB-Score>8.3</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>7</index>
+    <Title>Dancing with the Birds</Title>
+    <Genre>Documentary</Genre>
+    <Premiere>23-Oct-19</Premiere>
+    <Runtime>51</Runtime>
+    <IMDB-Score>8.3</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>8</index>
+    <Title>13th</Title>
+    <Genre>Documentary</Genre>
+    <Premiere>7-Oct-16</Premiere>
+    <Runtime>100</Runtime>
+    <IMDB-Score>8.2</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+  <movie>
+    <index>9</index>
+    <Title>Disclosure: Trans Lives on Screen</Title>
+    <Genre>Documentary</Genre>
+    <Premiere>19-Jun-20</Premiere>
+    <Runtime>107</Runtime>
+    <IMDB-Score>8.2</IMDB-Score>
+    <Language>English</Language>
+  </movie>
+</data>
